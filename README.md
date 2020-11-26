@@ -25,3 +25,7 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 - RNF004. Os contratados terão 24h horas para responder no sistema sobre os valores e detalhes
 - RNF005. Ao aprovar um orçamento o contratante deverá pagar 20% do valor a título de entrada
 - RNF006. Espera-se que o sistema apresente algum uso de dispositivos smart devices de modo a automatizar alguma fase do processo descrito.
+
+# Diagrama de Caso de Uso
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/DIAGRAMA_CASOS_DE_USO.jpg)
