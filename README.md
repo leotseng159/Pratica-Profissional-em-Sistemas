@@ -27,6 +27,8 @@ Senha: 123456  <br>
 Login: cliente  <br>
 Senha: 123456  <br>
 
+# Documentação
+
 # Requisitos Funcionais
 
 - RF001. O sistema deve apresentar um catálogo de serviços disponíveis
