@@ -49,7 +49,7 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 ![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS001.png)
 <br>
 
-## CS001 – Realizar Cadastro Com Serviço
+## CS002 – Realizar Cadastro Com Serviço
 
 |   Identificador   |  CS002  |
 |  :---:      |     :---:      |    
@@ -64,10 +64,58 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 | Pontos de Extensão     | Cadastro será aprovado pelo ADM    | 
 
 ![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+<br>
 
+## CS003 – Solicitar Orçamento 
 
+|   Identificador   |  CS003  |
+|  :---:      |     :---:      |    
+| Nome  | Solicitar Orçamento    | 
+| Atores     | Contratante, Contratado e sistema   | 
+| Sumário     | Ao realizar o cadastro no sistema o e aprovado pelo ADM e já pode realizar orçamento   | 
+| Complexidade     | Médio    | 
+| Regras de Negócio     | N/D    | 
+| Pré-condições     | Possuir conta cadastrada  | 
+| Pós-condição     | N/D   | 
+| Pontos de Inclusão     | N/D    | 
+| Pontos de Extensão     | N/D   | 
 
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+<br>
 
+## CS004 – Assinar o contrato e paga a entrada
+
+|   Identificador   |  CS004  |
+|  :---:      |     :---:      |    
+| Nome  | Assinar o contrato e paga a entrada    | 
+| Atores     | Contratante | 
+| Sumário     | Assinando o contrato e pagando a entrada do serviço contratado.  | 
+| Complexidade     | Médio    | 
+| Regras de Negócio     | N/D    | 
+| Pré-condições     | Orçamento do serviço solicitado  | 
+| Pós-condição     | N/D   | 
+| Pontos de Inclusão     | N/D    | 
+| Pontos de Extensão     | N/D   | 
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+<br>
+
+## CS005 – realizar serviço contratado na data
+
+|   Identificador   |  CS005  |
+|  :---:      |     :---:      |    
+| Nome  | realizar serviço contratado na data   | 
+| Atores     | Contratante, Sistema | 
+| Sumário     |Realizar o serviço contratado na data   | 
+| Complexidade     | Médio    | 
+| Regras de Negócio     | N/D    | 
+| Pré-condições     | N/D    | 
+| Pós-condição     | Só na data de contrato    | 
+| Pontos de Inclusão     | N/D    | 
+| Pontos de Extensão     |Fazer reajuste do valor dos serviços não previsto  | 
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+<br>
 
 
 
