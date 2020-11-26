@@ -33,3 +33,22 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 # Especificação dos Requisitos
 
 ## CS001 – Realizar cadastro
+
+|   Identificador   |  CS001  |
+|  :---:      |     :---:      |    
+| Nome  | git status     | 
+| Atores     | Contratante, Sistema, ADM    | 
+| Sumário     | Primeiro passo o cliente realiza o cadastro no sistema, para solicitar serviços desejados.    | 
+| Complexidade     | Médio    | 
+| Regras de Negócio     | N/D    | 
+| Pré-condições     | Usuário acessar o sistema    | 
+
+
+
+
+
+
+
+
+
+
