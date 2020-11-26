@@ -170,7 +170,66 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 ![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS008.png)
 <br>
 
+# Diagrama de Sequência 
 
+## Diagrama 1 – CS01
 
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_1_CS01.jpg)
+<br>
+
+## Diagrama 2 – CS01(FA01)
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_2_CS01_FA01.jpg)
+<br>
+
+## Diagrama 3 -  CS02
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_3_CS02.jpg)
+<br>
+
+## Diagrama 4 – CS02(FA01)
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_4_CS02_FA01.jpg)
+<br>
+
+## Diagrama 5 – CS03
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_5_CS03.jpg)
+<br>
+
+## Diagrama 6 – CS04
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_6_CS04.jpg)
+<br>
+
+## Diagrama 7 – CS04(FA01)
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_7_CS04_FA01.jpg)
+<br>
+
+## Diagrama 8 - CS05
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_8_CS05.jpg)
+<br>
+
+## Diagrama 9  - CS05(FA01)
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/diagrama_9_CS05_FA01.jpg)
+<br>
+
+## Diagrama 10 - CS06
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_10_CS06.jpg)
+<br>
+
+## Diagrama 11 - CS06(FA01)
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_11_CS06_FA01.jpg)
+<br>
+
+## Diagrama 12 - CS07
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_12_CS07.jpg)
+<br>
 
 
