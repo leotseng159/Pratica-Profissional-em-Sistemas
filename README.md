@@ -273,3 +273,44 @@ Senha: 123456  <br>
 ![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Wireframes/Wireframes1.png)
 <br>
 
+## Cadastro usuário :
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Wireframes/Wireframes2.png)
+<br>
+
+## Cadastro Serviço :
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Wireframes/Wireframes3.png)
+<br>
+
+## Tela de login :
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Wireframes/Wireframes4.png)
+<br>
+
+## Visualização dos usuários para ADM : 
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Wireframes/Wireframes5.png)
+<br>
+
+## Visualização dos serviços para ADM : 
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Wireframes/Wireframes6.png)
+<br>
+
+## Solicitar serviços :
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Wireframes/Wireframes7.png)
+<br>
+
+## Visualizar serviços :
+
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Wireframes/Wireframes8.png)
+<br>
+
+## Visualização dos pedidos :
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Wireframes/Wireframes9.png)
+<br>
+
