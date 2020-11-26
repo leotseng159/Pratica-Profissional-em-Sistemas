@@ -117,6 +117,22 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 ![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
 <br>
 
+## CS006 – Concorda ou recusa a finalização
+
+|   Identificador   |  CS006  |
+|  :---:      |     :---:      |    
+| Nome  | Concorda ou recusa a finalização   | 
+| Atores     | Contratante, Sistema e ADM | 
+| Sumário     | O contratante acessa o relatório no sistema    | 
+| Complexidade     | Médio    | 
+| Regras de Negócio     | N/D    | 
+| Pré-condições     | Analisar o serviço   | 
+| Pós-condição     | Fechar acordo    | 
+| Pontos de Inclusão     | Preenche pesquisa de satisfação  | 
+| Pontos de Extensão     | ADM analisa a Justificativa  | 
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+<br>
 
 
 
