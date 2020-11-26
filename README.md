@@ -266,3 +266,10 @@ Senha: 123456  <br>
 ![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/DIAGRAMA_ENTIDADE.jpg)
 <br>
 
+# Wireframes 
+
+## Home :
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Wireframes/Wireframes1.png)
+<br>
+
