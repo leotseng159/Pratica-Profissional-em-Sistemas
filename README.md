@@ -134,8 +134,41 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 ![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
 <br>
 
+## CS007 – Preencher pesquisa de satisfação sobre o serviço
 
 
+|   Identificador   |  CS007  |
+|  :---:      |     :---:      |    
+| Nome  | Preencher pesquisa de satisfação   | 
+| Atores     | Contratante, Sistema | 
+| Sumário     | Preencher pesquisa de satisfação sobre o serviço prestado    | 
+| Complexidade     | Médio    | 
+| Regras de Negócio     | N/D    | 
+| Pré-condições     | N/D   | 
+| Pós-condição     | N/D   | 
+| Pontos de Inclusão     | N/D  | 
+| Pontos de Extensão     | N/D  | 
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+<br>
+
+## CS008 – Preencher pesquisa de satisfação sobre o contratante
+
+
+|   Identificador   |  CS008  |
+|  :---:      |     :---:      |    
+| Nome  | Preencher pesquisa de satisfação  | 
+| Atores     | Contratado, sistema | 
+| Sumário     | Preencher pesquisa de satisfação sobre o contratante    | 
+| Complexidade     | Médio    | 
+| Regras de Negócio     | N/D    | 
+| Pré-condições     | N/D   | 
+| Pós-condição     | N/D   | 
+| Pontos de Inclusão     | N/D  | 
+| Pontos de Extensão     | N/D  | 
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+<br>
 
 
 
