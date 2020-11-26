@@ -1,0 +1,56 @@
+* Comando para criação das tabelas no Mysql.
+
+
+
+
+#Tabela Pedido
+
+CREATE TABLE `pedido` (
+ `pedido_id` int(11) NOT NULL AUTO_INCREMENT,
+ `tipoServ_id` int(11) NOT NULL,
+ `descricao_cli` text NOT NULL,
+ `descricao_cont` text NOT NULL,
+ `usuarioCli_id` int(11) NOT NULL,
+ `usuarioCon_id` int(11) NOT NULL,
+ `dia` varchar(30) NOT NULL,
+ `valor` float NOT NULL,
+ `aprovacao_cont` varchar(30) NOT NULL,
+ `aprovacao_cli` varchar(30) NOT NULL,
+ PRIMARY KEY (`pedido_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=69 DEFAULT CHARSET=utf8mb4
+
+
+#Tabela Serviço
+
+CREATE TABLE `servico` (
+ `servico_id` int(11) NOT NULL AUTO_INCREMENT,
+ `descricao` text NOT NULL,
+ `tipoServ_id` int(11) NOT NULL,
+ `usuario_id` int(11) NOT NULL,
+ `aprovacaoServ` varchar(30) NOT NULL,
+ `data_cadastro` datetime NOT NULL,
+ PRIMARY KEY (`servico_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=38 DEFAULT CHARSET=utf8mb4
+
+
+#Tabela TipoServiço 
+
+CREATE TABLE `tipoServico` (
+ `tipoServ_id` int(11) NOT NULL AUTO_INCREMENT,
+ `tipoServico` varchar(30) NOT NULL,
+ PRIMARY KEY (`tipoServ_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=utf8mb4
+
+
+#Tabela Usuário
+
+CREATE TABLE `usuario` (
+ `usuario_id` int(11) NOT NULL AUTO_INCREMENT,
+ `usuario` varchar(200) NOT NULL,
+ `senha` varchar(32) NOT NULL,
+ `nome` varchar(100) NOT NULL,
+ `tipoConta` varchar(100) NOT NULL,
+ `aprovacao` varchar(32) NOT NULL,
+ `data_cadastro` datetime NOT NULL,
+ PRIMARY KEY (`usuario_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=25 DEFAULT CHARSET=utf8mb4
