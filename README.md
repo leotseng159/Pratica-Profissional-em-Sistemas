@@ -27,7 +27,12 @@ Senha: 123456  <br>
 Login: cliente  <br>
 Senha: 123456  <br>
 
+** Link do trello para acompanhamento da organização do trabalho **
+
+## https://trello.com/b/qSYBibNm/pratica-profissional-em-sistemas
+
 # Documentação
+
 
 # Requisitos Funcionais
 
