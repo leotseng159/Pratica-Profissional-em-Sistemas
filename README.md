@@ -11,7 +11,7 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 
 ** Link do sistema para testes **
 
-### anar1.sg-host.com
+### http://anar1.sg-host.com/
 
 ** Para testar poderá usar os seguintos usuarios cadastrados ou cadastrar um novo **
 
