@@ -233,3 +233,8 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 <br>
 
 
+# Diagrama de entidade relacionamento
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/DIAGRAMA_ENTIDADE.jpg)
+<br>
+
