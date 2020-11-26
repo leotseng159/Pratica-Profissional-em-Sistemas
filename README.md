@@ -29,3 +29,7 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 # Diagrama de Caso de Uso
 
 ![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/DIAGRAMA_CASOS_DE_USO.jpg)
+
+# Especificação dos Requisitos
+
+## CS001 – Realizar cadastro
