@@ -3,18 +3,18 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 
 # Requisitos Funcionais
 
-RF001. O sistema deve apresentar um catálogo de serviços disponíveis
-RF002. O sistema deve cadastrar contratantes
-RF003. O sistema deve cadastrar contratados e seus serviços
-RF004. O sistema deve  processar as etapas de Orçamento e Contratação
-RF005. O sistema deve processar recebimentos
-RF006. O sistema deve remunerar contratados
-RF007. O sistema deve gerar relatórios de acompanhamento dos trabalhos
-RF008. O sistema deve manter pesquisa de satisfação dos contratantes sobre os serviços executados
-RF009. O sistema deve fornecer um contrato para formalização dos serviços
-RF0010. O sistema deve intermediar caso o contratante não concorde com o relatório de execução.
-RF011. O sistema deve informar na dashboard informações dos andamentos dos trabalhos
-RF012. O sistema deve gerar um boleto de acordo com os valores combinados, e para caso de reajuste, com valor reajustado
+- RF001. O sistema deve apresentar um catálogo de serviços disponíveis
+- RF002. O sistema deve cadastrar contratantes
+- RF003. O sistema deve cadastrar contratados e seus serviços
+- RF004. O sistema deve  processar as etapas de Orçamento e Contratação
+- RF005. O sistema deve processar recebimentos
+- RF006. O sistema deve remunerar contratados
+- RF007. O sistema deve gerar relatórios de acompanhamento dos trabalhos
+- RF008. O sistema deve manter pesquisa de satisfação dos contratantes sobre os serviços executados
+- RF009. O sistema deve fornecer um contrato para formalização dos serviços
+- RF0010. O sistema deve intermediar caso o contratante não concorde com o relatório de execução.
+- RF011. O sistema deve informar na dashboard informações dos andamentos dos trabalhos
+- RF012. O sistema deve gerar um boleto de acordo com os valores combinados, e para caso de reajuste, com valor reajustado
 
 
 # Requisitos Não Funcionais
