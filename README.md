@@ -265,6 +265,10 @@ Senha: 123456  <br>
 ![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_12_CS07.jpg)
 <br>
 
+## Diagrama 13 - CS08
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Diagramas/Diagrama_13_CS08.jpg)
+<br>
 
 # Diagrama de entidade relacionamento
 
