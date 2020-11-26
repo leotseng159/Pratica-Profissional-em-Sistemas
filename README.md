@@ -1,6 +1,30 @@
 # Pratica-Profissional-em-Sistemas
 PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 
+# Sistema Desenvolvido 
+
+* Na pasta Programa PHP possui o código do sistema completo e os dados para criação das tabelas no sql.
+* O sistema armazena os dados online no mysql
+* O sistema foi desenvolvido com php para armazenar e editar os dados no mysql, e criado o design da plataforma com html, CSS e javascript.
+
+* Link do sistema para testes * 
+
+anar1.sg-host.com
+
+* Para testar poderá usar os seguintos usuarios cadastrados ou cadastrar um novo.
+
+- Admin
+Login: adm
+Senha: 123456
+
+- Contratado
+Login: empresa
+Senha: 123456
+
+- Contratante
+Login: cliente
+Senha: 123456
+
 # Requisitos Funcionais
 
 - RF001. O sistema deve apresentar um catálogo de serviços disponíveis
