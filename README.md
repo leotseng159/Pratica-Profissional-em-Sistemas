@@ -80,7 +80,7 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 | Pontos de Inclusão     | N/D    | 
 | Pontos de Extensão     | N/D   | 
 
-![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS003.png)
 <br>
 
 ## CS004 – Assinar o contrato e paga a entrada
@@ -97,7 +97,7 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 | Pontos de Inclusão     | N/D    | 
 | Pontos de Extensão     | N/D   | 
 
-![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS004.png)
 <br>
 
 ## CS005 – realizar serviço contratado na data
@@ -114,7 +114,7 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 | Pontos de Inclusão     | N/D    | 
 | Pontos de Extensão     |Fazer reajuste do valor dos serviços não previsto  | 
 
-![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS005.png)
 <br>
 
 ## CS006 – Concorda ou recusa a finalização
@@ -131,7 +131,7 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 | Pontos de Inclusão     | Preenche pesquisa de satisfação  | 
 | Pontos de Extensão     | ADM analisa a Justificativa  | 
 
-![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS006.png)
 <br>
 
 ## CS007 – Preencher pesquisa de satisfação sobre o serviço
@@ -149,7 +149,7 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 | Pontos de Inclusão     | N/D  | 
 | Pontos de Extensão     | N/D  | 
 
-![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS007.png)
 <br>
 
 ## CS008 – Preencher pesquisa de satisfação sobre o contratante
@@ -167,7 +167,7 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 | Pontos de Inclusão     | N/D  | 
 | Pontos de Extensão     | N/D  | 
 
-![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS008.png)
 <br>
 
 
