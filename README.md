@@ -7,23 +7,25 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 * O sistema armazena os dados online no mysql
 * O sistema foi desenvolvido com php para armazenar e editar os dados no mysql, e criado o design da plataforma com html, CSS e javascript.
 
-* Link do sistema para testes * 
+<br> 
 
-anar1.sg-host.com
+** Link do sistema para testes **
 
-* Para testar poderá usar os seguintos usuarios cadastrados ou cadastrar um novo.
+### anar1.sg-host.com
 
-- Admin
-Login: adm
-Senha: 123456
+** Para testar poderá usar os seguintos usuarios cadastrados ou cadastrar um novo **
 
-- Contratado
-Login: empresa
-Senha: 123456
+- Admin <br>
+Login: adm  <br>
+Senha: 123456  <br>
 
-- Contratante
-Login: cliente
-Senha: 123456
+- Contratado  <br>
+Login: empresa  <br>
+Senha: 123456  <br>
+
+- Contratante  <br>
+Login: cliente  <br>
+Senha: 123456  <br>
 
 # Requisitos Funcionais
 
