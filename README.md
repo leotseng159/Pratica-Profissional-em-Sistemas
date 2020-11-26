@@ -36,7 +36,7 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 
 |   Identificador   |  CS001  |
 |  :---:      |     :---:      |    
-| Nome  | git status     | 
+| Nome  | Realizar Cadastro     | 
 | Atores     | Contratante, Sistema, ADM    | 
 | Sumário     | Primeiro passo o cliente realiza o cadastro no sistema, para solicitar serviços desejados.    | 
 | Complexidade     | Médio    | 
@@ -47,6 +47,23 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 | Pontos de Extensão     | N/D    | 
 
 ![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS001.png)
+<br>
+
+## CS001 – Realizar Cadastro Com Serviço
+
+|   Identificador   |  CS002  |
+|  :---:      |     :---:      |    
+| Nome  | Realizar Cadastro Com Serviço     | 
+| Atores     | Contratados, ADM e sistema   | 
+| Sumário     | Contatado realiza o cadastro dos seus serviços   | 
+| Complexidade     | Médio    | 
+| Regras de Negócio     | N/D    | 
+| Pré-condições     | Acesso liberado só com cadastro   | 
+| Pós-condição     | Feito o acesso serviço a ser contratado     | 
+| Pontos de Inclusão     | N/D    | 
+| Pontos de Extensão     | Cadastro será aprovado pelo ADM    | 
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS002.png)
 
 
 
