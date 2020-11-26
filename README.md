@@ -42,6 +42,14 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 | Complexidade     | Médio    | 
 | Regras de Negócio     | N/D    | 
 | Pré-condições     | Usuário acessar o sistema    | 
+| Pós-condição     | Cadastro realizado com Sucesso, podendo realizar solicitação do serviço     | 
+| Pontos de Inclusão     | N/D    | 
+| Pontos de Extensão     | N/D    | 
+
+![](https://github.com/leotseng159/Pratica-Profissional-em-Sistemas/blob/master/Especificação%20dos%20Requisitos/Esp-CS001.png)
+
+
+
 
 
 
