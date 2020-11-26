@@ -19,11 +19,9 @@ PRAT PROF EM ANAL DES DE SISTEMAS 05J (FCI)
 
 # Requisitos Não Funcionais
 
-RNF001. É desejável que o tempo de carga para uma página não seja superior a 5 
-segundos. 
-RNF002.  Disponibilizar em plataforma web para dispositivos desktop, tablets ou smartphones
-RNF003. A disponibilidade do sistema deverá ser de 99,99% do tempo, em todos segundos possíveis dentro dos sete dias da semanas
-RNF004. Os contratados terão 24h horas para responder no sistema sobre os valores e detalhes
-RNF005. Ao aprovar um orçamento o contratante deverá pagar 20% do valor a título de entrada
-RNF006. Espera-se que o sistema apresente algum uso
-de dispositivos smart devices de modo a automatizar alguma fase do processo descrito.
+- RNF001. É desejável que o tempo de carga para uma página não seja superior a 5 segundos. 
+- RNF002.  Disponibilizar em plataforma web para dispositivos desktop, tablets ou smartphones
+- RNF003. A disponibilidade do sistema deverá ser de 99,99% do tempo, em todos segundos possíveis dentro dos sete dias da semanas
+- RNF004. Os contratados terão 24h horas para responder no sistema sobre os valores e detalhes
+- RNF005. Ao aprovar um orçamento o contratante deverá pagar 20% do valor a título de entrada
+- RNF006. Espera-se que o sistema apresente algum uso de dispositivos smart devices de modo a automatizar alguma fase do processo descrito.
